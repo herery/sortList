@@ -1,0 +1,20 @@
+.item {
+    width: 100%;
+    border-bottom: 1px solid #f2f6fd;
+    padding: 10px;
+    display: flex;
+    box-sizing: border-box;
+}
+.item-name {
+    width: 30%;
+}
+.item-size {
+    width: 30%;
+}
+.item-time {
+    width: 40%;
+}
+
+.item:last-of-type {
+	border-bottom: 0;
+}
