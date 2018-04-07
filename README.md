@@ -1,3 +1,1 @@
 # sortList
-
-webpack + vue
